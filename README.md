@@ -29,6 +29,7 @@ Exploration coverage
 Idle time
 
 Collision count
+
 ✅ Automated testing with multiple runs and CSV export
 ✅ Normalized performance plots for comparative analysis
 
