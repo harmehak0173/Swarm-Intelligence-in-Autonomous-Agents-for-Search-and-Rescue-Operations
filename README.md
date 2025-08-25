@@ -17,7 +17,9 @@ Features
 PSO (velocity-based continuous movement)
 
 ACO (pheromone-based grid exploration)
+
 ✅ Real-time visualization using Pygame
+
 ✅ Performance metrics:
 
 Time to find all targets
